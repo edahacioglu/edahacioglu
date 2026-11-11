@@ -5,6 +5,7 @@
 </div>
 
 <p align="center">
+  
 I'm a Mathematical Engineering student at Yıldız Technical University, working my way into machine learning and AI. I enjoy turning data into something useful, mostly with Python, and I'm currently exploring supervised learning, NLP and mobile development. Next on my list: deep learning.
 </p>
 
