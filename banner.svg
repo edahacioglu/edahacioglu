@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="160" viewBox="0 0 860 160" role="img" aria-label="Eda Hacıoğlu · Yıldız Technical University · Mathematical Engineering">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1720" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#351134"/>
+      <stop offset="0.5" stop-color="#A0449C"/>
+      <stop offset="1" stop-color="#351134"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="-1720 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="160" fill="url(#g)"/>
+  <text x="430" y="82" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="44" font-weight="700">Eda Hacıoğlu</text>
+  <text x="430" y="118" text-anchor="middle" fill="#f3d9f1" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18">Yıldız Technical University · Mathematical Engineering</text>
+</svg>
