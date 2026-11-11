@@ -87,6 +87,4 @@ I'm a Mathematical Engineering student at Yıldız Technical University, working
 
 </div>
 
----
 
-<p align="center"><i>Crafted with 💜 and a lot of linear algebra.</i></p>
